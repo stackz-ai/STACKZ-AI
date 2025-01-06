@@ -1,13 +1,13 @@
-# STACKZ.AI: The First Slayer Trade Agent
+# AGENT SYSTEMS: The First Slayer Trade Agent
 
 > **An advanced trading AI and assistant for Web3.0 enthusiasts. Tailored for altcoins and low-cap tokens, it identifies top opportunities, forecasts trends, and mitigates risks. Combining machine learning with Web3 integration, it offers powerful analysis, automation, and real-time support to streamline every step of trading and enhance decision-making for maximum results.**
 
 ---
 
 ## 🚀 Overview
-STACKZ.AI is a revolutionary auto-trading agent tailored for risk management and high-performance trading on the Crypt0Hopper platform. By leveraging cutting-edge machine learning and **Web3.Solana**, STACKZ.AI adapts to market conditions in real-time, optimizing strategies and maximizing profitability in both volatile and stable markets.
+AGENT SYSTEMS is a revolutionary auto-trading agent tailored for risk management and high-performance trading on the Crypt0Hopper platform. By leveraging cutting-edge machine learning and **Web3.Solana**, AGENT SYSTEMS adapts to market conditions in real-time, optimizing strategies and maximizing profitability in both volatile and stable markets.
 
-Built for **retail traders** and **institutional investors**, STACKZ.AI empowers users with:
+Built for **retail traders** and **institutional investors**, AGENT SYSTEMS empowers users with:
 
 - **Dynamic Strategy Optimization**: Continuously adjusts trading strategies based on real-time market data.
 - **Risk Management**: Minimizes exposure to losses while maintaining high profit potential.
@@ -26,7 +26,7 @@ Built for **retail traders** and **institutional investors**, STACKZ.AI empowers
 
 ## 🔧 Installation & Setup
 
-Follow these steps to set up STACKZ.AI on your local machine.
+Follow these steps to set up AGENT SYSTEMS on your local machine.
 
 ### Prerequisites
 
@@ -35,11 +35,6 @@ Follow these steps to set up STACKZ.AI on your local machine.
 - [Solana CLI](https://docs.solana.com/cli/install-solana-cli)
 
 ### 1. Clone the Repository
-
-```bash
-git clone https://github.com/stackz-ai/STACKZ-AI
-cd slayer-ai
-```
 
 ### 2. Install Dependencies
 
@@ -66,7 +61,7 @@ CRYPTOHOPPER_SECRET=your_cryptohopper_secret
 
 ### 4. Run the Application
 
-To start STACKZ.AI:
+To start AGENT SYSTEMS:
 
 ```bash
 npm start
@@ -85,7 +80,7 @@ npm run build
 ## 🧩 Usage
 
 ### Connecting to Crypt0Hopper
-STACKZ.AI uses your Crypt0Hopper API key to fetch market data and execute trades. Ensure your API key is active and has the necessary permissions (e.g., trade execution, market analysis).
+AGENT SYSTEMS uses your Crypt0Hopper API key to fetch market data and execute trades. Ensure your API key is active and has the necessary permissions (e.g., trade execution, market analysis).
 
 ### Running in Development Mode
 Use the following command to start the application in development mode with live reloading:
@@ -130,11 +125,11 @@ npm run dev
 
 ## 🌐 Web3 Integration
 
-STACKZ.AI utilizes Solana blockchain for:
+AGENT SYSTEMS utilizes Solana blockchain for:
 - **Trade Verification**: Immutable records of all executed trades.
 - **Risk Management Logic**: Decentralized and tamper-proof.
 
-To interact with the Solana blockchain, STACKZ.AI uses:
+To interact with the Solana blockchain, AGENT SYSTEMS uses:
 
 ```javascript
 const { Connection, clusterApiUrl } = require('@solana/web3.js');
@@ -167,4 +162,4 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-**STACKZ.AI** - Revolutionizing financial markets through intelligent automation.
+**AGENT SYSTEMS** - Revolutionizing financial markets through intelligent automation.
